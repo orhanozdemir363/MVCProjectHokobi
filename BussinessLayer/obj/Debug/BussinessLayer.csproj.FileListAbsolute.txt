@@ -1,0 +1,27 @@
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\BussinessLayer.dll
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\BussinessLayer.pdb
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\EntityFramework.dll
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\EntityFramework.xml
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\obj\Debug\BussinessLayer.dll
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\obj\Debug\BussinessLayer.pdb
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\DataLayer.dll
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\DataLayer.pdb
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\bin\Debug\DataLayer.dll.config
+c:\users\melte\documents\visual studio 2017\Projects\MVCProjectHokobi\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\DataLayer.dll
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\orhan\Desktop\MVCProjectHokobi\BussinessLayer\obj\Debug\BussinessLayer.pdb

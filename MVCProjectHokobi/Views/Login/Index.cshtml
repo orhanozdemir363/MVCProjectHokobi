@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+    <p>Kullanıcı Adı</p>
+    @Html.Editor("KullaniciAdi")
+    <br />
+    <p>Şifre</p>
+    @Html.Password("Şifre")
+    <hr />
+    <p style="color:red">@ViewBag.Mesaj</p>
+    <input type="submit" value="GİRİŞ" />
+}
+
+

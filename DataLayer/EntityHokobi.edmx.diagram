@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ad3d705e9b8349ba9fc7dd0d48219c0f" Name="Diagram1">
+        <EntityTypeShape EntityType="HokobiModel.AddressType" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HokobiModel.UserAddress" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="HokobiModel.User" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <AssociationConnector Association="HokobiModel.FK_UserAddresses_AddressTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="HokobiModel.FK_UserAddresses_Users" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="HokobiModel.PersonelDetail" Width="1.5" PointX="3.375" PointY="4.75" />
+        <EntityTypeShape EntityType="HokobiModel.Product" Width="1.5" PointX="5.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
